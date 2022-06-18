@@ -1,0 +1,18 @@
+body {
+    background-color: red;
+}
+
+/* @media only screen and (max-width:800px) {
+    #imagem-1020 {
+        width: 200px;
+    }
+}
+@media only screen and (max-width:500px) {
+    #imagem-1020 {
+        im
+    }
+} */
+#imagem-1020 {
+
+    background: url("/static/img/banner-380.jpg") 50% 0 no-repeat fixed;
+}
